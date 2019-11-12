@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - GLSMediator (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - GLSMediator (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  GLSMediator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  GLSMediator: 16a97cc67f89a3eb1082946791606cd414a03aed
+
+PODFILE CHECKSUM: 508df3e321fcea0bba181ba496e018555de199e4
+
+COCOAPODS: 1.8.4

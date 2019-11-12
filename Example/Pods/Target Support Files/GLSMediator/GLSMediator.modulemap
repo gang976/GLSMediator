@@ -1,0 +1,6 @@
+framework module GLSMediator {
+  umbrella header "GLSMediator-umbrella.h"
+
+  export *
+  module * { export * }
+}

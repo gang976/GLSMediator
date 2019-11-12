@@ -1,0 +1,22 @@
+{
+  "name": "GLSMediator",
+  "version": "0.1.0",
+  "summary": "A short description of GLSMediator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gang976/GLSMediator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gang976": "337343992@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/gang976/GLSMediator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GLSMediator/Classes/**/*"
+}

@@ -1,0 +1,12 @@
+use_frameworks!
+
+
+target 'GLSMediator_Example' do
+  pod 'GLSMediator', :path => '../'
+
+  target 'GLSMediator_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

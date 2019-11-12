@@ -1,0 +1,6 @@
+framework module Pods_GLSMediator_Tests {
+  umbrella header "Pods-GLSMediator_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
