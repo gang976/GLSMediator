@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GLSMediator'
-  s.version          = '0.2.1'
-  s.summary          = 'GLS中间件=='
+  s.version          = '0.2.2'
+  s.summary          = 'GLS中间件==++'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'GLS中间件=='
+  s.description      = 'GLS中间件==++'
 
   s.homepage         = 'https://github.com/gang976/GLSMediator'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -37,4 +37,6 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  
+  
 end
